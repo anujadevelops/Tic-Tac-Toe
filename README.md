@@ -40,17 +40,16 @@
 ---
 
 ## 💻 Installation
+
 ## 1️⃣ Clone the repository:
 ```
 ✅ 1. Prerequisites:
 - Python 3.x installed on your computer.
 - No external libraries are required (only built-in libraries are used).
-
----
-
+```
+```
 ✅ 2. Download the Project:
 - Clone this repository using Git:
-```bash
 git clone https://github.com/anujadevelops/tic-tac-toe.git
 ```
 ## 2️⃣ Navigate to the project directory:
